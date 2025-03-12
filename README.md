@@ -1,4 +1,4 @@
-**Disclaimer: This made by usinmg Electron.js!**
+**Disclaimer: This app is made by using Electron.js!**
 
 Helpful commands for you:
 ```
