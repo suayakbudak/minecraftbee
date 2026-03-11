@@ -1,5 +1,5 @@
 ## Disclaimer: This app is made by using Electron.js!
-![alt text](http://bee.png)
+![minecraftbee](bee.png)
 
 
 ***After download, please run these commands in order:***
