@@ -1,5 +1,5 @@
 ## Disclaimer: This app is made by using Electron.js!
-![minecraftbee](bee.png)
+<img src="bee.png" width="100" />
 
 
 ***After download, please run these commands in order:***
