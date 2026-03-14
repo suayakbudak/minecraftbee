@@ -1,6 +1,6 @@
 ## Disclaimer: This app is made by using Electron.js!
 <img src="bee.png" width="100" />
-
+![me](/gif.gif)
 
 ***After download, please run these commands in order:***
 ```
