@@ -1,5 +1,5 @@
 ## Disclaimer: This app is made by using Electron.js!
-<img src="gif.gif" alt="bee" width="900"/>
+<img src="gif.gif" alt="bee" width="450"/>
 
 ***After download, please run these commands in order:***
 ```
